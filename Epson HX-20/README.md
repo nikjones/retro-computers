@@ -1,6 +1,6 @@
-#Epson HX-20
+# Epson HX-20
 
-##History
+## History
 
-##My Collecton
+## My Collecton
 
