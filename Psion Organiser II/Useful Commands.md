@@ -1,6 +1,8 @@
 # Check Model of Psion Organiser II
 Open CALC
+
 CALC:PEEKB(-24) 
+
 Press EXE                
 
 You will see a number displayed:-
