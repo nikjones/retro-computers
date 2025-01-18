@@ -8,6 +8,7 @@ In no particular order
 - Psion Organiser II
 - Oric Atmos
 - Apple IIcx (not working - bad drive?)
+- Toshiba Libretto 110
 
 ## Wishlist
 - Sinclair Spctrums
@@ -18,3 +19,4 @@ In no particular order
 - Palm Pilots
 - Psion 3 & 5s
 - Epson PX-4 & PX-8
+- Toshiba Librettos
