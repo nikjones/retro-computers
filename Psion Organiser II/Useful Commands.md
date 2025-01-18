@@ -1,7 +1,7 @@
 # Check Model of Psion Organiser II
 Open CALC
 
-CALC:PEEKB(-24) 
+    CALC:PEEKB(-24) 
 
 Press EXE                
 
