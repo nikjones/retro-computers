@@ -4,11 +4,15 @@ Just a place to keep all the information, trick, tips, code examples * have for 
 ## My Vintage Computers
 
 In no particular order
-- Epson HX-20 (6 ish of which 3 working))
-- Psion Organiser II
-- Oric Atmos
-- Apple IIcx (not working - bad drive?)
-- Toshiba Libretto 110
+- Laptops
+-- Epson HX-20 (6 ish of which 3 working))
+-- Toshiba Libretto 110
+- PDAs
+-- Psion Organiser II
+- Desktops
+-- Oric Atmos
+-- Apple IIcx (not working - bad drive?)
+
 
 ## Wishlist
 - Sinclair Spctrums
