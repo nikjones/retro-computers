@@ -5,13 +5,13 @@ Just a place to keep all the information, trick, tips, code examples * have for 
 
 In no particular order
 - Laptops
--- Epson HX-20 (6 ish of which 3 working))
--- Toshiba Libretto 110
+  - Epson HX-20 (6 ish of which 3 working))
+  - Toshiba Libretto 110
 - PDAs
--- Psion Organiser II
+  - Psion Organiser II
 - Desktops
--- Oric Atmos
--- Apple IIcx (not working - bad drive?)
+  - Oric Atmos
+  - Apple IIcx (not working - bad drive?)
 
 
 ## Wishlist
