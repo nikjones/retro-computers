@@ -1,7 +1,7 @@
-# Vintage Computer
+# Vintage Computers
 Just a place to keep all the information, trick, tips, code examples * have for a small number of viintage Computers
 
-## My Vintage Computer
+## My Vintage Computers
 
 In no particular order
 - Epson HX-20 (6 ish of which 3 working))
