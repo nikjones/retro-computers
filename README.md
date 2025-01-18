@@ -11,7 +11,7 @@ In no particular order
   - [Psion Organiser II](/Psion%20Organiser%20II/README.md)
   - 
 - Desktops
-  - Oric Atmos
+  - [Oric Atmos](/Oric%20Atmos/README.md)
   - Apple IIcx (not working - bad drive?)
 
 
