@@ -16,3 +16,4 @@ In no particular order
 - BBC Model B
 - Apple Macs
 - Palm Pilots
+- Psion 3 & 5s
