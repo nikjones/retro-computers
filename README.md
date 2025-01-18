@@ -9,7 +9,6 @@ In no particular order
   - Toshiba Libretto 110
 - PDAs
   - [Psion Organiser II](/Psion%20Organiser%20II/README.md)
-  - [I'm a relative reference to a repository file](../blob//vintage-computers/Psion%20Organiser%20II/README.md)
   - 
 - Desktops
   - Oric Atmos
