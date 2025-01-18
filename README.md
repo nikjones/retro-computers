@@ -5,7 +5,7 @@ Just a place to keep all the information, trick, tips, code examples * have for 
 
 In no particular order
 - Laptops
-  - Epson HX-20 (6 ish of which 3 working))
+  - [Epson HX-20](Epson%20HX-20/README.md) (6 ish of which 3 working))
   - Toshiba Libretto 110
 - PDAs
   - [Psion Organiser II](/Psion%20Organiser%20II/README.md)
