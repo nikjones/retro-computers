@@ -9,6 +9,8 @@ In no particular order
   - Toshiba Libretto 110
 - PDAs
   - Psion Organiser II
+ #[crux-ports Installation](/nikjones/vintage-computers/blob/main/Psion%20Organiser%20II/README.md)
+  - 
 - Desktops
   - Oric Atmos
   - Apple IIcx (not working - bad drive?)
