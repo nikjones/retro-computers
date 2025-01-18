@@ -8,7 +8,7 @@ In no particular order
   - Epson HX-20 (6 ish of which 3 working))
   - Toshiba Libretto 110
 - PDAs
-  - [Psion Organiser II](/nikjones/vintage-computers/blob/main/Psion%20Organiser%20II/README.md)
+  - [Psion Organiser II](/nikjones/vintage-computers/main/Psion Organiser II/README.md)
   - 
 - Desktops
   - Oric Atmos
