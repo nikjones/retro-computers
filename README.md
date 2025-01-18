@@ -7,7 +7,7 @@ In no particular order
 - Epson HX-20 (6 ish of which 3 working))
 - Psion Organiser II
 - Oric Atmos
-- Apple xxx (not working - bad drive?)
+- Apple IIcx (not working - bad drive?)
 
 ## Wishlist
 - Sinclair Spctrums
@@ -17,3 +17,4 @@ In no particular order
 - Apple Macs
 - Palm Pilots
 - Psion 3 & 5s
+- Epson PX-4 & PX-8
