@@ -1,8 +1,6 @@
-# Vintage Computers
-Just a place to keep all the information, trick, tips, code examples 
-have for a small number of viintage Computers
+# My Vintage Computers
 
-## My Vintage Computers
+[Wiki](wiki)
 
 In no particular order
 - Laptops
