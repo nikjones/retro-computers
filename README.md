@@ -1,4 +1,4 @@
-# My Vintage Computers
+# My Retro Computers
 
-[Wiki](https://github.com/nikjones/vintage-computers/wiki)
+[Wiki](https://github.com/nikjones/retro-computers/wiki)
 
