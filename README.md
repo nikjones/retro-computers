@@ -22,6 +22,7 @@ In no particular order
 - PDAs
   - [3Com Pilot III](Palm-Pilot)
   - [Apple Newton](Apple-Newton)
+  - [Apple Newton MessagePad](https://github.com/nikjones/retro-computers/wiki/Apple-Newton)
   - [Psion Organiser II](Psion-Organiser-II)
   - [Psion Series 3a](Psion-Series-3)
   - [Psion Series 5](https://github.com/nikjones/vintage-computers/wiki/Psion-Series-5-&-5mx#psion-series-5)
